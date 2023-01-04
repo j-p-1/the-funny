@@ -6,8 +6,4 @@ But with that out of the way, we present to you:
 
 # the-funny (Cement Shipping And Co. Corp.)
 
-:trollface:
-
-~~Website project for a presentation~~ That presentation was on the 21st of Decemember.
-
-Development is silently continuing though.
+For the latest development commits from upstream, please see [This Branch Here](https://github.com/j-p-1/the-funny/tree/dev).
