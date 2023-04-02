@@ -9,7 +9,7 @@ body {
 .title {
     font-size: 40px;
     border: solid 4px;
-    max-width: 550px;
+    max-width: 650px;
     border-color: #c0c0c0;
     background-color: cadetblue;
     font-family:Arial, Helvetica, sans-serif;
@@ -95,7 +95,7 @@ nav {
     width: 100px;
     height: 100px;
     border: solid 3px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 p {
@@ -106,4 +106,9 @@ p {
 .gallery_panel {
     width: 500px;
     height: 500px;
+}
+
+.topbuttons {
+    background-color: blue;
+    font-size: 20px;
 }
